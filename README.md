@@ -4,7 +4,7 @@ Guess the word before it's too late! Play the classic Hangman Game and test your
 
 ## Play the Game
 
-[Play Now](https://your-username.github.io/hangman-game/) 🕹️
+[Play Now](https://aryan0-1maurya.github.io/hangman-game/) 🕹️
 
 ## About the Game
 
